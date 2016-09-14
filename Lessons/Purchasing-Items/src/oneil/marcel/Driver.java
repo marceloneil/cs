@@ -15,6 +15,7 @@ public class Driver {
 		double price = s.nextDouble();
 		System.out.print("Enter the quantity desired: ");
 		int quantity = s.nextInt();
+		s.close();
 
 		Item item = new Item(name, price, quantity);
 		
