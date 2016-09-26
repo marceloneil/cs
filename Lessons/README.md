@@ -1,4 +1,8 @@
 # Lessons
+- [Lesson 2](https://github.com/marceloneil/cs/blob/master/Lessons/README.md#lesson-2)
+- [Lesson 3](https://github.com/marceloneil/cs/blob/master/Lessons/README.md#lesson-3)
+- [Lesson 4](https://github.com/marceloneil/cs/blob/master/Lessons/README.md#lesson-4)
+- [Lesson 5](https://github.com/marceloneil/cs/blob/master/Lessons/README.md#lesson-5)
 
 ### Lesson 2
 [Task 2a - Purchasing Items](https://github.com/marceloneil/cs/tree/master/Lessons/Purchasing-Items/src/oneil/marcel) 
