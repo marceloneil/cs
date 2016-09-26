@@ -15,4 +15,8 @@ public class Item {
 	public double getPrice() {
 		return (this.price * this.quantity) * this.salesTax;
 	}
+	
+	public String getName() {
+		return this.name;
+	}
 }
