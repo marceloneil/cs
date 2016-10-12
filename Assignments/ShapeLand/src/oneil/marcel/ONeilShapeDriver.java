@@ -20,7 +20,7 @@ public class ONeilShapeDriver {
 		System.out.println("Point 2 is: " + point2.toString() + "\n");
 
 		// Info about Point 1 and 2
-		if (point1.distanceFrom(point2) == 0)
+		if (point1.equals(point2))
 			System.out.println("Point 1 and Point 2 are the same");
 		else
 			System.out.println("Point 1 and Point 2 are different");
