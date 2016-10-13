@@ -17,7 +17,7 @@ public class Circle {
 	 *            circle's radius
 	 */
 	public Circle(double radius) {
-		this.location = new Point(0, 0);
+		this.location = new Point();
 		this.radius = radius;
 	}
 

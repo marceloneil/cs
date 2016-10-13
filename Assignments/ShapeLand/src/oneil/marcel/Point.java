@@ -11,7 +11,7 @@ public class Point {
 	private double y;
 
 	/**
-	 * Point constructor.
+	 * Point constructor. Default location is the origin.
 	 */
 	public Point() {
 		this.x = 0;
