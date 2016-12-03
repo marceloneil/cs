@@ -4,6 +4,7 @@
 - [Lesson 3](https://github.com/marceloneil/cs/blob/master/Lessons/README.md#lesson-3)
 - [Lesson 4](https://github.com/marceloneil/cs/blob/master/Lessons/README.md#lesson-4)
 - [Lesson 5](https://github.com/marceloneil/cs/blob/master/Lessons/README.md#lesson-5)
+- [Lesson 8](https://github.com/marceloneil/cs/blob/master/Lessons/README.md#lesson-8)
 
 ### Hacker Challenges
 [Dice Roller](https://github.com/marceloneil/cs/tree/master/Lessons/Dice-Roller/src/oneil/marcel)  
@@ -17,3 +18,5 @@
 [Task 4b - HTML Tag Checker](https://github.com/marceloneil/cs/tree/master/Lessons/HTML-Tag-Checker/src/oneil/marcel)  
 ### Lesson 5
 [Task 5 - Book](https://github.com/marceloneil/cs/tree/master/Lessons/Book/src/oneil/marcel)  
+### Lesson 8
+[Exercise - Files/ArrayLists/Exceptions](https://github.com/marceloneil/cs/tree/master/Lessons/Countries-Population/src/oneil/marcel)  

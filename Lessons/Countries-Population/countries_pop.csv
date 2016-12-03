@@ -1,0 +1,244 @@
+Country,Population
+China,1362010000
+India,1238570000
+United States,317400000
+Indonesia,249866000
+Brazil,201032714
+Pakistan,185256000
+Nigeria,173615000
+Bangladesh,152518015
+Russia,143600000
+Japan,127270000
+Mexico,118395054
+Philippines,98915000
+Vietnam,90388000
+Ethiopia,86613986
+Egypt,83661000
+Germany,80586000
+Iran,77112000
+Turkey,75627384
+Democratic Republic of the Congo,67514000
+Thailand,65926261
+France,65834000
+United Kingdom,63705000
+Italy,59901141
+Burma,53259000
+South Africa,52981991
+South Korea,50219669
+Colombia,47401000
+Spain,46704314
+Ukraine,45447010
+Tanzania,44928923
+Kenya,44354000
+Argentina,40117096
+Algeria,38700000
+Poland,38502396
+Sudan,37964000
+Uganda,35357000
+Canada,35295770
+Iraq,34035000
+Morocco,33132100
+Peru,30475144
+Uzbekistan,30183400
+Saudi Arabia,29994272
+Malaysia,29950000
+Venezuela,28946101
+Nepal,26494504
+Afghanistan,25500100
+Yemen,25235000
+North Korea,24895000
+Ghana,24658823
+Mozambique,23700715
+Taiwan,23367320
+Australia,23335808
+Ivory Coast,23202000
+Syria,21898000
+Madagascar,21263403
+Angola,20609294
+Cameroon,20386799
+Sri Lanka,20277597
+Romania,20121641
+Burkina Faso,17322796
+Niger,17129076
+Kazakhstan,17099000
+Netherlands,16832700
+Chile,16634603
+Malawi,16363000
+Ecuador,15649100
+Guatemala,15438384
+Mali,15302000
+Cambodia,15135000
+Senegal,13567338
+Zambia,13092666
+Zimbabwe,12973808
+Chad,12825000
+South Sudan,11296000
+Belgium,11180320
+Cuba,11167325
+Tunisia,10833431
+Guinea,10824200
+Greece,10815197
+Portugal,10487289
+Rwanda,10537222
+Czech Republic,10513800
+Somalia,10496000
+Haiti,10413211
+Benin,10323000
+Burundi,10163000
+Bolivia,10027254
+Hungary,9906000
+Sweden,9633490
+Belarus,9467200
+Dominican Republic,9445281
+Azerbaijan,9235100
+Honduras,8555072
+Austria,8501502
+United Arab Emirates,8264070
+Israel,8132000
+Switzerland,8112200
+Tajikistan,8000000
+Bulgaria,7282041
+Hong Kong (China),7184000
+Serbia,7181505
+Papua New Guinea,7059653
+Paraguay,6783374
+Laos,6580800
+Jordan,6531200
+El Salvador,6340000
+Eritrea,6333000
+Libya,6202000
+Togo,6191155
+Sierra Leone,6190280
+Nicaragua,6071045
+Kyrgyzstan,5747000
+Denmark,5623501
+Finland,5449657
+Slovakia,5412008
+Singapore,5399200
+Turkmenistan,5240000
+Norway,5096300
+Lebanon,4822000
+Costa Rica,4667096
+Central African Republic,4616000
+Ireland,4593100
+Georgia,4483800
+New Zealand,4504860
+Republic of the Congo,4448000
+Palestine,4420549
+Liberia,4294000
+Croatia,4290612
+Oman,3929000
+Bosnia and Herzegovina,3791622
+Puerto Rico,3615086
+Kuwait,3582054
+Moldov,3559500
+Mauritania,3461041
+Panama,3405813
+Uruguay,3286314
+Armenia,3024100
+Lithuania,2945951
+Albania,2821977
+Mongolia,2754685
+Jamaica,2711476
+Namibia,2113077
+Lesotho,2074000
+Qatar,2068050
+Macedonia,2062294
+Slovenia,2061171
+Botswana,2024904
+Latvia,2008700
+Gambia,1849000
+Kosovo,1815606
+Guinea-Bissau,1704000
+Gabon,1672000
+Equatorial Guinea,1622000
+Trinidad and Tobago,1328019
+Estonia,1286540
+Mauritius,1257900
+Swaziland,1250000
+Bahrain,1234571
+Timor-Leste,1066409
+Djibouti,873000
+Cyprus,865878
+Fiji,858038
+Reunion (France),821136
+Guyana,784894
+Comoros,743797
+Bhutan,742610
+Montenegro,620029
+Macau (China),598200
+Solomon Islands,581344
+Western Sahara,567000
+Luxembourg,537000
+Suriname,534189
+Cape Verde,491875
+Malta,416055
+Guadeloupe (France),403355
+Martinique (France),394173
+Brunei,393162
+Bahamas,351461
+Iceland,325010
+Maldives,317280
+Belize,312971
+Barbados,274200
+French Polynesia (France),268270
+Vanuatu,264652
+New Caledonia (France),258958
+French Guiana (France),229040
+Mayotte (France),212600
+Samoa,187820
+Sao Tom and Principe,187356
+Saint Lucia,166526
+Guam (USA),159358
+Curacao (Netherlands),150563
+Saint Vincent and the Grenadines,109000
+Kiribati,106461
+United States Virgin Islands (USA),106405
+Grenada,103328
+Tonga,103036
+Aruba (Netherlands),101484
+Federated States of Micronesia,101351
+Jersey (UK),97857
+Seychelles,90945
+Antigua and Barbuda,86295
+Isle of Man (UK),84497
+Andorra,76246
+Dominica,71293
+Bermuda (UK),64237
+Guernsey (UK),63085
+Greenland (Denmark),56370
+Marshall Islands,56086
+American Samoa (USA),55519
+Cayman Islands (UK),55456
+Saint Kitts and Nevis,54000
+Northern Mariana Islands (USA),53883
+Faroe Islands (Denmark),48159
+Sint Maarten (Netherlands),37429
+Saint Martin (France),36979
+Liechtenstein,36942
+Monaco,36136
+San Marino,32499
+Turks and Caicos Islands (UK),31458
+Gibraltar (UK),30001
+British Virgin Islands (UK),29537
+Aland Islands (Finland),28502
+Caribbean Netherlands (Netherlands),23296
+Palau,20901
+Cook Islands (NZ),14974
+Anguilla (UK),13452
+Wallis and Futuna (France),13135
+Tuvalu,11323
+Nauru,9945
+Saint Barthelemy (France),8938
+Saint Pierre and Miquelon (France),6081
+Montserrat (UK),4922
+Saint Helena Ascension and Tristan da Cunha (UK),4000
+Svalbard and Jan Mayen (Norway),2655
+Falkland Islands (UK),2563
+Norfolk Island (Australia),2302
+Christmas Island (Australia),2072
+Niue (NZ),1613
+Tokelau (NZ),1411
+Vatican City,800
+Cocos (Keeling) Islands (Australia),550
+Pitcairn Islands (UK),56
