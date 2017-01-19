@@ -14,7 +14,7 @@
 - [ ] [Stacks](https://github.com/marceloneil/cs/tree/master/Stacks/src/oneil/marcel)
 - [x] [Multi Dimensional Data](https://github.com/marceloneil/cs/tree/master/Multi-Dimensional-Data/src/oneil/marcel)
 - [x] [Flood Fill](https://github.com/marceloneil/cs/tree/master/Flood-Fill/src/oneil/marcel)
-
+- [x] [Bank](https://github.com/marceloneil/cs/tree/master/Bank/src/oneil/marcel)
 
 ### Assignments
 - [x] [ShapeLand](https://github.com/marceloneil/cs/tree/master/ShapeLand/src/oneil/marcel)
