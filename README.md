@@ -12,6 +12,7 @@
 - [x] [Book](https://github.com/marceloneil/cs/tree/master/Book/src/oneil/marcel)
 - [x] [Countries Population](https://github.com/marceloneil/cs/tree/master/Countries-Population/src/oneil/marcel)
 - [ ] [Stacks](https://github.com/marceloneil/cs/tree/master/Stacks/src/oneil/marcel)
+- [x] [Multi Dimensional Data](https://github.com/marceloneil/cs/tree/master/Multi-Dimensional-Data/src/oneil/marcel)
 
 
 ### Assignments
